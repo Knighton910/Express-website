@@ -1,4 +1,4 @@
-# Express-website 
+# Express Website
 
 this was cloned in JuniorNodeDev
-## Devs are Leyth & kelthenoble
+## Devs: *Leyth *kelthenoble
