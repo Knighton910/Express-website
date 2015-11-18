@@ -1,10 +1,11 @@
-# Express Website
+## Express Website
 
 A nice & clean basic express app.
 
-##fast run time - git clone & npm start and your up & running. 
+fast run time - 
+git clone & npm start 
+and your up and running. 
 
-no installing required :)
-=======
 
-## Developers are Leyth & kelthenoblte
+
+ Developers are Leyth & kelthenoblte
