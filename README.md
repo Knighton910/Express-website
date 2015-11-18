@@ -2,9 +2,9 @@
 
 A nice & clean basic express app.
 
-since i forgot to add a .gitignore file,
-to run it with npm start.
+#fast run time - git clone & npm start and your up & running. 
 
 no installing required :)
 =======
+
 ## Developers are Leyth & kelthenoblte
