@@ -3,8 +3,7 @@
 A nice & clean basic express app.
 
 fast run time - 
-git clone & npm start 
-and your up and running. 
+:sparkles: git clone & npm start :sparkles: - and your up and running. 
 
 
 
